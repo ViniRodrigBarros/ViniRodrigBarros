@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ViniRodrigBarros
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Engemharia da Computação
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m vinicius Rodrigues Barros
+- 🌱 I’m currently learning Engenharia da Computação (IFPB)
+- 🌱 estou sempre disposto a aprender novas tecnologias
+- 
 
 <!---
 ViniRodrigBarros/ViniRodrigBarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
