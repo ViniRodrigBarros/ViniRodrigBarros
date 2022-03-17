@@ -1,6 +1,6 @@
 ## Ola! eu sou Vinicius Rodrigues Barros
 - 🌱  Engenharia da Computação (IFPB)
-- ✨ estou sempre disposto a aprender novas tecnologias
+- ✨ estou sempre disposto a aprender novas tecnologias!
 - ✔ estou atualmente criando um sistema de gerenciamento de um salão de estetica
 <div align="center">
   <a href="https://github.com/ViniRodrigBarros">
@@ -17,7 +17,7 @@
   <img align="center" alt="vini-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="vini-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="vini-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+</div>   
   
 <!---
 ViniRodrigBarros/ViniRodrigBarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
