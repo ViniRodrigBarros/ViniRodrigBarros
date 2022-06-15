@@ -1,7 +1,6 @@
 ## Ola! eu sou Vinicius Rodrigues Barros
 - 🌱  Engenharia da Computação (IFPB)
 - ✨ estou sempre disposto a aprender novas tecnologias!
-- ✔ estou atualmente criando um sistema de gerenciamento
 <div align="center">
   <a href="https://github.com/ViniRodrigBarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniRodrigBarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
