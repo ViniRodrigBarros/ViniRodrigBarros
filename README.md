@@ -1,7 +1,6 @@
 ## Ola! eu sou Vinicius Rodrigues Barros
 - 🌱  Engenharia da Computação (IFPB)
 - ✨ Desenvolvedor mobile (STTP)
-- ✨ Desenvolvedor mobile (Bus2)
 - ✨ estou sempre disposto a aprender novas tecnologias!
 <div align="center">
   <a href="https://github.com/ViniRodrigBarros">
